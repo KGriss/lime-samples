@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	
+	<meta title="FileDialog" package="software.lime.samples.filedialog" version="1.0.0" company="haxelime" />
+	<app main="Main" path="Export" file="FileDialog" />
+	
+	<source path="Source" />
+	
+	<haxelib name="lime" />
+	
+	<assets path="Assets" rename="assets" />
+	
+</project>
